@@ -6,4 +6,4 @@ This is a description of my project.
 
 ![Project Diagram](Capture3.PNG)
 
-This diagram shows the architecture of the project.
+This diagram shows the Overlook of the project.
